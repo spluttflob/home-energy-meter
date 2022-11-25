@@ -68,7 +68,7 @@ Different values could be used with minor changes to the software.
     page. 
 
 * The MicroPython program is hosted here.  It began as a test of 
-  Firebase^TM^ for home IoT use, but it was found that connecting to an
+  Firebase™ for home IoT use, but it was found that connecting to an
   existing Raspberry Pi in a closet was a more efficient solution. 
   
   The networking functions `web_up()` and `web_down()` are declared in
